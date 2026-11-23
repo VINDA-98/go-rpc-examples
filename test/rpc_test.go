@@ -1,8 +1,8 @@
 package test
 
 import (
-	"github.com/VINDA-98/gRpc_study/rpc_client"
-	"github.com/VINDA-98/gRpc_study/rpc_server"
+	"github.com/VINDA-98/go-rpc-examples/rpc_client"
+	"github.com/VINDA-98/go-rpc-examples/rpc_server"
 	"log"
 	"testing"
 )

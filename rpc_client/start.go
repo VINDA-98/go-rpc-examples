@@ -2,7 +2,7 @@ package rpc_client
 
 import (
 	"context"
-	"github.com/VINDA-98/gRpc_study/protocol"
+	"github.com/VINDA-98/go-rpc-examples/protocol"
 	gRPC "google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
 	"log"

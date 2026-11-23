@@ -1,4 +1,4 @@
-module github.com/VINDA-98/gRpc_study
+module github.com/VINDA-98/go-rpc-examples
 
 go 1.19
 

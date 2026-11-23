@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/VINDA-98/gRpc_study/protocol"
+	"github.com/VINDA-98/go-rpc-examples/protocol"
 	"google.golang.org/protobuf/proto"
 )
 
