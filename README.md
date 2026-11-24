@@ -2,7 +2,7 @@
 
 [简体中文](README.zh-CN.md)
 
-A local demo that runs a Go `net/rpc` service over HTTP alongside a gRPC service. It follows both client calls from connection setup to shutdown and shows how Protocol Buffers types turn a service definition into a typed Go client and server.
+A side-by-side Go example of `net/rpc` over HTTP and gRPC. Compare the client lifecycle for both services and see how Protocol Buffers generates typed gRPC client and server code.
 
 ## Read the examples
 

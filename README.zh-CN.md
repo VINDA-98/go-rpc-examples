@@ -2,7 +2,7 @@
 
 [English](README.md)
 
-一个在本机并行运行 Go `net/rpc` over HTTP 和 gRPC 服务的练习。可以对照两种客户端从建立连接到关闭的调用流程，也可以看到 Protocol Buffers 服务定义如何生成带类型的 Go 客户端和服务端代码。
+并列展示 Go 的 HTTP `net/rpc` 和 gRPC 服务。可以对照两种客户端从连接到关闭的过程，并查看 Protocol Buffers 服务定义对应的 gRPC 客户端与服务端代码。
 
 ## 阅读示例
 
